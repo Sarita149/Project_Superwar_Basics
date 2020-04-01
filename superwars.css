@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.maine {
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-between; */
+}
+
+.super {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  border-color: lightgrey;
+  border-radius: 10px;
+}
+
+.line {
+
+  font-size: 28px;
+  margin: 20px 70px 20px 70px;
+  text-align: center;
+}
+
+.line>p {
+  font-size: 38px;
+  font-weight: 500;
+}
+
+p,
+h1 {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+span {
+  font-size: 38px;
+}
